@@ -84,7 +84,7 @@ python /train_retrieval/train_retrieval.py \
 # Notice
 
 * (1) You should modify the paths in your configuration and set the correct logging path.
-* (2) You should download the pretrained molecular encoder and checkpoints from [here](https://drive.google.com/drive/folders/1j93RzD5Vg3N_NiTMP78r-2BBsqFzC7jS?usp=drive_link) and put the pretrained encoder into the `/model` directory.
+* (2) You should download the pretrained molecular encoder and checkpoints from [here](https://drive.google.com/drive/folders/1YMWpmkTMrjgf1frCqZr9p6sZMrHcFvqu?usp=drive_link) and put the pretrained encoder into the `/model` directory.
 
 ### Example model structure
 ```
@@ -100,3 +100,6 @@ More details can be found in the /spectra_pred_evaluate.ipynb.
 
 ## Evaluation for cross-modality retrieval
 More details can be found in the /retrieval_evaluate.ipynb.
+
+# Notice
+You can download the checkpoints to reproduce the results. The checkpoints can be downloaded [here](https://drive.google.com/drive/folders/1EeuNfpzOBfeXJmU_G0Wzx9ZR1tpLajRo?usp=drive_link)
