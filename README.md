@@ -102,4 +102,4 @@ More details can be found in the /spectra_pred_evaluate.ipynb.
 More details can be found in the /retrieval_evaluate.ipynb.
 
 # Notice
-You can download the checkpoints to reproduce the results. The checkpoints can be downloaded [here](https://drive.google.com/drive/folders/1EeuNfpzOBfeXJmU_G0Wzx9ZR1tpLajRo?usp=drive_link)
+You can download the checkpoints to reproduce the results. The checkpoints can be downloaded [here](https://zenodo.org/records/19281881?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjM1ZDUxYWRiLTQ3ODItNGYzYS1iYjYyLTkwZjY3OGY4MTM2NSIsImRhdGEiOnt9LCJyYW5kb20iOiJjY2I3ZDRiMjlkZjQ1MDM1ZWQ2NTUzYjhiNDE0MzI4MyJ9.wQRGpYKlPQk6JF98FmWb7kZtGCRBSAhY_pI7L-gsq8eJ7LWlBLl34OAAXOQdyX8FcKL6-afonu8QJu825pi1Rg)
