@@ -13,7 +13,7 @@ Real-time and explainable spectral analysis is crucial for accelerating the prof
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/SSMoE-MVMS.git
+git clone https://github.com/Alex07015/SSMoE-MVMS.git
 cd SSMoE-MVMS
 ```
 
