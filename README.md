@@ -49,7 +49,6 @@ data/
     └── test.lmdb
 ```
 You can download the dataset from [here](https://drive.google.com/drive/folders/1KVBGMwWvPkOKDDpReuzuzA-FRLFxsEV-?usp=drive_link).
----
 
 ---
 
