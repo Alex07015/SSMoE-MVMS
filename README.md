@@ -79,9 +79,3 @@ python /train_retrieval/train_retrieval.py \
     --dp False \
     --model SSMoE_MVMS_Retrieval
 ```
-
----
-
-## License
-
-This project is released under the MIT License.
