@@ -43,10 +43,13 @@ Example dataset structure:
 
 ```
 data/
- ├── train.lmdb
- ├── valid.lmdb
- └── test.lmdb
+ ├──qm9s_results/
+    ├── train.lmdb
+    ├── valid.lmdb
+    └── test.lmdb
 ```
+You can download the dataset from [here](https://drive.google.com/drive/folders/1KVBGMwWvPkOKDDpReuzuzA-FRLFxsEV-?usp=drive_link).
+---
 
 ---
 
