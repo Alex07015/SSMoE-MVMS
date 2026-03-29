@@ -83,9 +83,9 @@ python /train_retrieval/train_retrieval.py \
 ```
 # Notice
 
-* (1) You should modify the paths in your configuration and set the correct logging path.
+* (1) You should modify the paths in your configuration and set the correct logging path！
 * (2) You should download the pretrained molecular encoder and checkpoints from [here](https://drive.google.com/drive/folders/1YMWpmkTMrjgf1frCqZr9p6sZMrHcFvqu?usp=drive_link) and put the pretrained encoder into the `/model` directory.
-
+* (3) More arguments and their descriptions can be found in /args.py, and can be adjusted according to your needs.
 ### Example model structure
 ```
 model/
