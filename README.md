@@ -91,7 +91,7 @@ python /train_retrieval/train_retrieval.py \
 model/
  ├── SMILES
  ├── unimol
- ├── graphmvp
+ ├── graph_mvp
  ├──...
 ```
 
